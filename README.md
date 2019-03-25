@@ -30,8 +30,8 @@ Sisi server, mengirimkan gambar-gambar ke client yg Connect di port 9000
 Sisi client, akan mengambil gambar tersebut dan menyimpannya sesuai dengan nama filenya
 
 ### Form Entry
-![Input](input.png)
+![input](https://user-images.githubusercontent.com/28387331/54903356-49ee4800-4f0e-11e9-8491-accbc0ed2add.PNG)
 
 ### Output
-![Output](output.png)
+![output](https://user-images.githubusercontent.com/28387331/54903397-5e324500-4f0e-11e9-96bc-876805b08863.PNG)
 
