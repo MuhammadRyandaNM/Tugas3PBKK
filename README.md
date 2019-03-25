@@ -6,9 +6,9 @@ NRP : 05111640000180
 ## Petunjuk Penggunaan
 
 ### Data yang harus diinput
--Nama: Nama Mahasiswa
--NRP : NRP Mahasiswa
--Score: IPK Mahasiswa
+- Nama: Nama Mahasiswa
+- NRP : NRP Mahasiswa
+- Score: IPK Mahasiswa
 
 ### Alur Program
 
