@@ -24,15 +24,14 @@ NRP : 05111640000180
 - Setelah itu controller akan mengembalikan 'inputoutput.jsp'
 - Di dalam inputoutput.jsp data pada model dipanggil dengan sintaks '${_nama_atribut_}'
 
-![DeskripsiTugas](DeskripsiTugas.jpg)
 
 Buatlah sebuat UDP Picture server yg secara periodik akan mengirimkan gambar-gambar ke client
 Sisi server, mengirimkan gambar-gambar ke client yg Connect di port 9000
 Sisi client, akan mengambil gambar tersebut dan menyimpannya sesuai dengan nama filenya
 
 ### Form Entry
-![Input](Input.png)
+![Input](input.png)
 
 ### Output
-![Output](Output.png)
+![Output](output.png)
 
